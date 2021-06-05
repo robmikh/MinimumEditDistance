@@ -11,3 +11,4 @@ _ReSharper*.*
 *.scc
 *.vssscc
 *.vspscc
+/.vs/MinimumEditDistance/v16/TestStore/0
